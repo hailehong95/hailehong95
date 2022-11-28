@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🐝 I’m currently working as a Security Engineer.
-- 🎯 I’m interested in DFIR, Reverse Engineering and Programming.
+- 🐝 I'm currently working as a Information Security Engineer.
+- 🎯 Skilled in: Digital Forensics, Incident Response and Malware Analysis. In addition, I interested in programming and often use it for tasks solving.
 <!--
 **hailehong95/hailehong95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
